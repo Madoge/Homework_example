@@ -23,5 +23,7 @@ git merge <name>
 git branck -d <name>
 
 上传
+
 git pull
+
 git push origin master
