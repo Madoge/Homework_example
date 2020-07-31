@@ -24,4 +24,4 @@ git branck -d <name>
 
 上传
 git pull
-git push origin maca
+git push origin master
